@@ -15,19 +15,6 @@ This interactive program takes user-input coordinates (x, y) and determines thei
 - Continuous operation until termination condition
 - Formatted floating-point output
 
-## How to Run
-```bash
-python coordinate_identifier.py
-
-Enter x and y(press space in between the numbers): 3.5 -2.1
-Enter x and y: 3.50   -2.10
-==> (3.50, -2.10) is below X-axis
-==> It is at forth quadrant
-
-Enter x and y(press space in between the numbers): 0 0
-Enter x and y: 0.00   0.00
-==> (0.00, 0.00) is at origin
-
 ## Files
 - `Toh Qi Hao_Lab_3.py` - Coordinate quadrant identification program
 
@@ -40,3 +27,16 @@ Enter x and y: 0.00   0.00
 
 ## Author
 Toh Qi Hao
+
+## How to Run
+```bash
+python coordinate_identifier.py
+
+Enter x and y(press space in between the numbers): 3.5 -2.1
+Enter x and y: 3.50   -2.10
+==> (3.50, -2.10) is below X-axis
+==> It is at forth quadrant
+
+Enter x and y(press space in between the numbers): 0 0
+Enter x and y: 0.00   0.00
+==> (0.00, 0.00) is at origin
