@@ -20,13 +20,15 @@ This interactive program takes user-input coordinates (x, y) and determines thei
 
 ## Technologies Used
 - Python 3
-- Conditional logic
-- User input handling
-- String formatting
-- Mathematical coordinate analysis
+- Conditional statements and logic
+- User input handling and validation
+- String splitting and type conversion
+- Floating-point number formatting
+- While loop control structures
+- Cartesian coordinate system mathematics
 
 ## Author
-Toh Qi Hao
+Toh Qi Hao - Python Programming Lab 3
 
 ## How to Run
 ```bash
