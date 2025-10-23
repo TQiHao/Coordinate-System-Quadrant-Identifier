@@ -28,7 +28,7 @@ This interactive program takes user-input coordinates (x, y) and determines thei
 - Cartesian coordinate system mathematics
 
 ## Author
-Toh Qi Hao - Python Programming Lab 3
+Toh Qi Hao
 
 ## How to Run
 ```bash
